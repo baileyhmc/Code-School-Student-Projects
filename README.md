@@ -52,7 +52,7 @@ Additional Requirements: 6/6
 1) Your project is responsive to different devices and/or browser sizes and improves the user
 experience in some way
 
-BM implemented the HTML: <meta name="viewport" content="width=device-width, initial scale=1.0">
+BM implemented the HTML: meta name="viewport" content="width=device-width, initial scale=1.0"
 
 2) Your project must include a minimum of 2 custom-written CSS elements located in a .css file
 which are applied to your HTML elements. 
