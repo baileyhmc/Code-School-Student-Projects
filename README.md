@@ -85,7 +85,7 @@ BM included this README file with a decription of project and what features I ch
 include that correspond with the project requirements.
 
 
-Thank you to the gener8tor the Mill Code School and all supporters that made the Mill Code School a reality.
+Thank you to the gener8tor the Mill Code School and all partners/supporters that made the Mill Code School a reality.
 https://www.gener8torupskilling.com/mill-code-school
 
 Sources: 
@@ -98,7 +98,7 @@ Footer: https://www.w3schools.com/tags/tag_footer.asp
 
 Colors: https://coolors.co/
 
-Background Foundation Skills: LinkedIn Learning: Become a Software Developer https://www.linkedin.com/learning/paths/become-a-software-developer?trk=share_ios_learning_path_learning&shareId=KCyNsmvPSV68Zl9/Pp8i9Q==
+Background Foundational Skills: LinkedIn Learning: Become a Software Developer https://www.linkedin.com/learning/paths/become-a-software-developer?trk=share_ios_learning_path_learning&shareId=KCyNsmvPSV68Zl9/Pp8i9Q==
 
 
 
