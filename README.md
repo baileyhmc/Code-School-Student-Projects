@@ -59,10 +59,7 @@ which are applied to your HTML elements.
 
 BM included a minimum of 2 custom-written CSS elements linked a CSS stylesheet. 
 
-CSS includes the ability to hover over clickable cards, drop shadow on hover, focus-within on hover, ability
-to change color of cards when hovering, ability to change the text color of linked
-website when hoving over card (in this site I choose to keep the text color the same when
-hovering or not for "Check out my project!" text, but the element is there)
+CSS includes the ability to hover over clickable cards to show what current card is selected via use of transitions which implements a color change, drop shadow, focus-within, ability to change the text color of linked website when hoving over card (in this site I choose to keep the text color the same when hovering or not for "Check out my project!" text, but the element is there)
 
 3) Your project includes JavaScript in a separate .js file
 
